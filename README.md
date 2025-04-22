@@ -1,3 +1,51 @@
+# Task Management Dashboard 🧩
+
+A simple, responsive Kanban-style Task Management Dashboard built using **React (Vite)**, **@hello-pangea/dnd**, and **mock REST APIs** like `jsonplaceholder.typicode.com`.
+
+---
+
+## 🚀 Features
+
+- View tasks in three columns: **To Do**, **In Progress**, and **Done**
+- Create new tasks with title, description, and status
+- Drag-and-drop tasks between columns
+- Responsive UI for desktop and mobile
+- API call simulation using mock data
+
+---
+
+## 📦 Tech Stack
+
+- React (Vite)
+- @hello-pangea/dnd (for drag-and-drop)
+- Axios
+- CSS3 + Media Queries
+- jsonplaceholder.typicode.com (mock API)
+
+---
+
+## 📥 Installation & Running Locally
+
+```bash
+# Step 1: Clone the repo
+git clone https://github.com/your-username/task-dashboard.git
+cd task-dashboard
+
+# Step 2: Install dependencies
+npm install
+
+# Step 3: Run the development server
+npm run dev
+
+
+
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
