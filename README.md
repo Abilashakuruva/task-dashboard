@@ -28,7 +28,7 @@ A simple, responsive Kanban-style Task Management Dashboard built using **React 
 
 ```bash
 # Step 1: Clone the repo
-git clone https://github.com/your-username/task-dashboard.git
+git clone https://github.com/Abilashakuruva/task-dashboard
 cd task-dashboard
 
 # Step 2: Install dependencies
