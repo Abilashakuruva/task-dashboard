@@ -38,11 +38,20 @@ npm install
 npm run dev
 
 
+🧠 Architecture & Approach
+The app uses a component-based structure with React and Vite.
 
+Board.jsx manages state and orchestrates the drag-and-drop functionality.
 
+Column.jsx renders tasks based on status and acts as a drop zone.
 
+TaskCard.jsx is a draggable UI card.
 
+TaskForm.jsx handles new task creation.
 
+CSS uses flexbox layout and media queries to ensure responsiveness.
+
+We use @hello-pangea/dnd instead of react-beautiful-dnd to ensure compatibility with React 19.
 
 
 
